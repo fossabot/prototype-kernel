@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FcPacketNetworks%2Fprototype-kernel.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FcPacketNetworks%2Fprototype-kernel?ref=badge_shield)
+
 Prototyping kernel development
 ==============================
 :Authors: Jesper Dangaard Brouer <netoptimizer@brouer.com>
@@ -40,3 +42,7 @@ to generate pretty documentation).
 .. _blogpost: http://netoptimizer.blogspot.dk/2014/11/announce-github-repo-prototype-kernel.html
 .. _eBPF samples: https://github.com/torvalds/linux/blob/master/samples/bpf/
 .. _samples/bpf/: kernel/samples/bpf/
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FcPacketNetworks%2Fprototype-kernel.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FcPacketNetworks%2Fprototype-kernel?ref=badge_large)
